@@ -1,0 +1,1 @@
+describe format of a NDC Standard Message.
